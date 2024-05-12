@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  margin: 0
+}
+
+/* @font-face {
+  font-family: 'HarmonyOS_Sans_Black';
+  src: url(assets/font/HarmonyOS_Sans_Black.ttf);
+}
+
+@font-face {
+  font-family: 'HarmonyOS_Sans_Thin';
+  src: url(assets/font/HarmonyOS_Sans_Thin.ttf);
+}
+
+@font-face {
+  font-family: 'HarmonyOS_Sans_Light';
+  src: url(assets/font/HarmonyOS_Sans_Light.ttf);
+} */
+
+@font-face {
+  font-family: 'HarmonyOS_Sans_Regular';
+  src: url(assets/font/HarmonyOS_Sans_Regular.ttf);
+} 
+
+/* @font-face {
+  font-family: 'HarmonyOS_Sans_Medium';
+  src: url(assets/font/HarmonyOS_Sans_Medium.ttf);
+}
+
+@font-face {
+  font-family: 'HarmonyOS_Sans_Bold';
+  src: url(assets/font/HarmonyOS_Sans_Bold.ttf);
+} */
